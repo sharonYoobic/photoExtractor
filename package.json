@@ -1,0 +1,27 @@
+{
+  "name": "photo-extractor",
+  "version": "1.0.0",
+  "description": "extract photo url's and insert to excel",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "lodash": "^4.17.4",
+    "mongodb": "^2.2.31",
+    "xlsx-populate": "^1.11.0",
+    "yargs": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonYoobic/photoExtractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonYoobic/photoExtractor/issues"
+  },
+  "homepage": "https://github.com/sharonYoobic/photoExtractor#readme"
+}
